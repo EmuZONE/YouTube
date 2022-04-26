@@ -1,0 +1,43 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="28"/>
+		<author/>
+		<title>Standarte: The Best of</title>
+	</head>
+	<body>
+		<seq>
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/001.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/002.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/003.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/004.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/005.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/006.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/007.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/008.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/009.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/010.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/011.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/012.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/013.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/014.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/015.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/016.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/017.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/018.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/019.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/020.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/021.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/022.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/023.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/024.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/025.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/026.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/027.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/031/028.mp3" />
+		</seq>
+	</body>
+</smil>
