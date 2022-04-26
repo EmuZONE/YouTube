@@ -7,19 +7,19 @@
     </head>
     <body>
         <seq>
-            <media src="001.mp3"/>
-            <media src="002.mp3"/>
-            <media src="003.mp3"/>
-            <media src="004.mp3"/>
-            <media src="005.mp3"/>
-            <media src="006.mp3"/>
-            <media src="007.mp3"/>
-            <media src="008.mp3"/>
-            <media src="009.mp3"/>
-            <media src="010.mp3"/>
-            <media src="011.mp3"/>
-            <media src="012.mp3"/>
-            <media src="013.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/012/001.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/012/002.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/012/003.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/012/004.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/012/005.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/012/006.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/012/007.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/012/008.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/012/009.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/012/010.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/012/011.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/012/012.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/012/013.mp3"/>
         </seq>
     </body>
 </smil>
