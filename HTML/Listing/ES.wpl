@@ -1,0 +1,21 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="6.5"/>
+		<author/>
+		<title></title>
+	</head>
+	<body>
+		<seq>
+			<media src="https://raw.githubusercontent.com/EmuZoneDEV/plugin.image.noise/master/Zip/Old%20Files/Update/001/002.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZoneDEV/plugin.image.noise/master/Zip/Old%20Files/Update/001/004.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZoneDEV/plugin.image.noise/master/Zip/Old%20Files/Update/001/006.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZoneDEV/plugin.image.noise/master/Zip/Old%20Files/Update/001/008.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZoneDEV/plugin.image.noise/master/Zip/Old%20Files/Update/001/010.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZoneDEV/plugin.image.noise/master/Zip/Old%20Files/Update/001/012.mp3" />
+		</seq>
+	</body>
+</smil>
